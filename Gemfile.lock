@@ -93,6 +93,7 @@ GEM
       mini_mime (>= 0.1.1)
     marcel (1.0.1)
     method_source (1.0.0)
+<<<<<<< HEAD
     mini_mime (1.1.0)
     mini_portile2 (2.5.0)
     minitest (5.14.4)
@@ -102,6 +103,20 @@ GEM
       mini_portile2 (~> 2.5.0)
       racc (~> 1.4)
     public_suffix (4.0.6)
+=======
+    mimemagic (0.3.10)
+      nokogiri (~> 1)
+      rake
+    mini_mime (1.0.2)
+    mini_portile2 (2.5.0)
+    minitest (5.14.1)
+    msgpack (1.3.3)
+    nio4r (2.5.2)
+    nokogiri (1.11.3)
+      mini_portile2 (~> 2.5.0)
+      racc (~> 1.4)
+    public_suffix (4.0.5)
+>>>>>>> bf894cf8aa335afc5f0ea698c9de2c31e7b12486
     puma (3.12.6)
     racc (1.5.2)
     rack (2.2.3)
